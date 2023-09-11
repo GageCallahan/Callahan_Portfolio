@@ -10,7 +10,7 @@ I am very excited to learn and apply data visualization techniques in this class
 # Portfolio
 
 ## Data Visualization 1
-
+[Visualizing Government Debt](/Visualizing_Debt.md)
 ## Critique By Design
 
 ## Final Project
