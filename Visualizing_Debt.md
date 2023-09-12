@@ -12,7 +12,11 @@
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14987099"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Notes
+# Written Summary
+
+For the first visualization
+
+Sources and Tools used: OECD, Flourish, Flag Images
 
 ## Return to main page
 https://gagecallahan.github.io/Callahan_Portfolio/
