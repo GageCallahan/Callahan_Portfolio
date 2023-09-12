@@ -21,6 +21,3 @@ For my third visualization, I wanted to do a little more with looking at change 
 
 
 Sources and Tools used: [OECD](/https://data.oecd.org/), [Flourish](https://flourish.studio/), [Flag Images](https://www.worldometers.info/geography/flags-of-the-world/)
-
-## Return to main page
-https://gagecallahan.github.io/Callahan_Portfolio/
