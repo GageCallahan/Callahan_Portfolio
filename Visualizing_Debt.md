@@ -8,6 +8,11 @@
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14976338"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+# Top 10 Timelapse
+
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/14987099"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Notes
 
 ## Return to main page
 https://gagecallahan.github.io/Callahan_Portfolio/
