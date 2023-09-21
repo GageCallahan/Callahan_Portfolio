@@ -2,8 +2,8 @@
 
 ## Original Data Visualization
 
-I enjoy playing the card game Magic: The Gathering (MTG) and often look at mtggoldfish.com for reports on recent tournaments. In this game players can build their own decks of cards, but generally gravitate towards a few successful strategies. This website posts weekly articles on the current 'metagame' (what decks are popular and how those decks are performing). A common series of charts is taken from performance in a weekly tournament, the Pauper Challenge. This data is collected by the Castle of Commons discord and is freely available at https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY20yRIhtDBcUzxA88/edit#gid=1470099066.
-Article Link: https://www.mtggoldfish.com/articles/the-power-of-pauper-inside-and-out
+I enjoy playing the card game Magic: The Gathering (MTG) and often look at [mtggoldfish.com](https://www.mtggoldfish.com/articles/the-power-of-pauper-inside-and-out) for reports on recent tournaments. In this game players can build their own decks of cards, but generally gravitate towards a few successful strategies. This website posts weekly articles on the current 'metagame' (what decks are popular and how those decks are performing). A common series of charts is taken from performance in a weekly tournament, the Pauper Challenge. This data is collected by the Castle of Commons discord and is freely available at this [link](/https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY20yRIhtDBcUzxA88/edit#gid=1470099066/).
+
 These three charts show the most important information for a tournament: Play %, Win%, and Top 8 performers.
 
 ![](meta.png)
