@@ -21,21 +21,31 @@ My biggest issues with these charts are the following:
 
 ## Wireframing Solutions
 
+For all of these solutions, I used the most recent tournament results (16 September, 2023). Notably this is not the same tournament as highlighted in the most recent article. However, due to the consistency of the chart the success of a visualization technique should be independent of the week the data was collected.
+
 ### Attempt 1: Pie Chart
 
 ![](IMG_0196.jpg)
+
+For this attempt I went against the class advice and used a pie chart. This made sense as a way to depict meta % as part of the whole. I tested a couple color pallets but ended up using a red/blue diverging scale for this one to see how it looked. I used the color to show the winrate information. This vis would benefit from tableau or a similar software that provided the popouts for more information. I wasnt thrilled with how the categories blended together here.
 
 ### Attempt 2: Colored Text Chart
 
 ![](IMG_0197.jpg)
 
+My second atttempt was to do the most basic approach and just combine all the information in to one text chart. For the Win rate and top 8 performances I used a reg-green variant of the diverging color scale. I think this simple approach would work pretty well for the websites articles as it is not a huge departure from the current design. Since this chart was not super interesing to me, I wanted to try something more exciting for the final visualization.
+
 ### Attempt 3: Circle Chart
 
 ![](IMG_0198.jpg)
 
+For this attempt I was inspired by Fluorish's parliament chart, where each seat is represented by its own circle. In this visualization, each circle represents one player using that deck in the tournament. I used the same red-green scale showing win percent and also used yellow circles to include information about the top 8.
+
 ### Attempt 4: Top 8 Flow
 
 ![](IMG_0199.jpg)
+
+My final visualization attempt was my favorite. This shows the progression of each deck as a portion of the field on the left as a stacked bar to the top 8 on the right as a standard text list. Color here is used for categorization and I chose colors that would MTG players would associate with that deck (ie Burn is fiery orange). 
 
 ## Testing the Solution
 
@@ -43,7 +53,21 @@ I shared my wireframes with two other students and got the following feedback.
 
 ### Student 1: Male 26, Familiar with MTG
 
+1) Favorite charts were the pie chart (#1) followed by the circles (#3).
+2) Disliked the use of blue-red to represent win rates, since red-green was more commonly used and easily understood.
+3) For the pie chart, noted that using color to signal a metric was unconventional and that the win rate legend should be placed prominantly above the chart.
+4) For the circle chart, liked it after looking at it for a while, but thought it was a bit too busy and showed too much. Thought hightlighting win rate or top 8 was a good idea, but both was probably too much.
+5) For chart #2, would prefer top 8 to be colored as a percentage of the entrants instead of just number of top 8s.
+6) Liked the use of color in chart #4 as it was more intuitive. In contrast on the pie chart he was confused why black was used for burn.
+
 ### Student 2: Female 26, Unfamiliar with MTG
+
+1) Felt like she didnt have enough context to understand the charts easily. After a brief explanation of the MTG tournament results structure, she had the following feedback:
+2) Pie charts were not pleasing to look at and the color scheme on #1 made this worse.
+3) Chart #2 was boring and did not tell a story easily, just provided the data as is.
+4) Chart #3 was very busy. The use of yellow-red-green was disliked as the yellow did not stand out.
+5) Very much liked chart #4 as it was the most clear in telling a story. The colored lines helped guide her eyes in a chronological path from beginning of tournament to top 8.
+6) For chart #4, thought including the pilot/player information was unnecessary for the story being told.
 
 ### Reflection on Feedback
 
