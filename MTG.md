@@ -71,6 +71,8 @@ I shared my wireframes with two other students and got the following feedback.
 
 ### Reflection on Feedback
 
+I thought it was interesting that one person really liked the pie chart while another did not. The feedback informed me that striking a balance between simple and busy would be important, but very difficult with this dataset. I appreciated the feedback on the use of color and business in some of the charts. I think chart #3 in particular could shine if some of the visual clutter was removed. Since this chart would be highly targeted at users familiar with MTG, I was naturally more interested in the first person's feedback. However, I was intrigued by how the second person was drawn to chart #4. As far as telling the overall story, even to someone unfamiliar with the subject matter, I think #4 would be a very successful visualization. Due to a combination of feeback, discussion, and not meeting my personal criteria, charts #1 and #2 were off the table for the rest of the assignment.
+
 ## Recreated Data Visualization
 
 While I was most interested in producing a final version of wireframe #4, I had no idea how to approach this using the software we covered in class. I settled on reproducing a simpler form of wireframe #3 using Tableau. When publishing there was a consistent issue with information in the 'Golgari' portion disappearing, but this information will still display when hovered over.
