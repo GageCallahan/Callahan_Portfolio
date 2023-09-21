@@ -12,6 +12,6 @@ I am very excited to learn and apply data visualization techniques in this class
 ## Data Visualization 1
 [Visualizing Government Debt](/Visualizing_Debt.md)
 ## Critique By Design
-[MTG Pauper Challenge](/MTG_Pauper_Challenge_Redesign.md)
+[MTG Pauper Challenge](/MTG.md)
 
 ## Final Project
