@@ -86,6 +86,8 @@ var scriptElement = document.createElement('script');scriptElement.src = 'https:
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+Datasource: https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY20yRIhtDBcUzxA88/edit#gid=1238260846
+
 ### Self-Critique and Comparisons to Original Visualization
 
 1) Excitement: I think this chart makes use of color better and due to its interactive nature is more interesting than the original chart. I think using the area of the rectangles is also more intuitive than using a bar chart for meta % since it is depicting a fraction-of-a-whole relationship. I was not thrilled with how the red-green scale looked (somewhat bland/samey), but stuck with it due to the feedback I received and the importance of sticking to well known design conventions.
