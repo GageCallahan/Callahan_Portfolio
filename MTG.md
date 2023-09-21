@@ -88,5 +88,6 @@ vizElement.parentNode.insertBefore(scriptElement, vizElement);
 
 ### Self-Critique and Comparisons to Original Visualization
 
-1) asdf
-2) 
+1) Excitement: I think this chart makes use of color better and due to its interactive nature is more interesting than the original chart. I think using the area of the rectangles is also more intuitive than using a bar chart for meta % since it is depicting a fraction-of-a-whole relationship. I was not thrilled with how the red-green scale looked (somewhat bland/samey), but stuck with it due to the feedback I received and the importance of sticking to well known design conventions.
+2) Efficiency: This chart combines most of the information from three charts into one while still being pretty easy to interpret and thus met my goal of being more space efficient. The one thing this chart loses is attributing the players who actually made top 8. I think the top 8 chart as has been historically used in these articles can not be replaced since it is already very simple and provides well deserved call outs for the players who achieve these standings.
+3) Completeness: The text and popouts do most of the heavy lifting in this category. I think this chart performs slightly better than the original visualization as all the information is readily available (ie total number of players and metrics for the 'other' category) and the use of size and color is intuitive. The usage of color and area does not tell exact information, so the text remains important. I think the completeness of this chart could be improved for the other section since it is currently lumping many different decks together. I would like if the popout could highlight at least which decks in the 'other' category placed in the top 8.
