@@ -2,22 +2,22 @@
 
 ## Original Data Visualization
 
-I enjoy playing the card game Magic: The Gathering (MTG) and often look at [mtggoldfish.com](https://www.mtggoldfish.com/articles/the-power-of-pauper-inside-and-out) for reports on recent tournaments. In this game players can build their own decks of cards, but generally gravitate towards a few successful strategies. This website posts weekly articles on the current 'metagame' (what decks are popular and how those decks are performing). A common series of charts is taken from performance in a weekly tournament, the Pauper Challenge. This data is collected by the Castle of Commons discord and is freely available at this [link](/https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY20yRIhtDBcUzxA88/edit#gid=1470099066/).
+I enjoy playing the card game Magic: The Gathering (MTG) and often look at [mtggoldfish.com](https://www.mtggoldfish.com/articles/the-power-of-pauper-inside-and-out) for reports on recent tournaments. In this game players can build their own decks of cards, but generally gravitate towards a few successful strategies. This website posts weekly articles on the current 'metagame' (what decks are popular and how those decks are performing). A common series of charts is taken from performance in a weekly tournament, the Pauper Challenge. This data is collected by the Castle of Commons discord and is freely available at this [link](/https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY20yRIhtDBcUzxA88/edit#gid=1470099066/).  
 
-These three charts show the most important information for a tournament: Play %, Win%, and Top 8 performers.
+These three charts show the most important information for a tournament: Play %, Win%, and Top 8 performers.  
 
 ![](meta.png)
 
 ## Critique
 
 These charts are simple and effective. Additionally, they have the benefit of being a chart consistently produced in the same format so enfranchised players should be familiar with the format. Seeing as this is niche information that would not be accessible to most viewers, two target audiences should be kept in mind.
-1) Heavily enfranchised players who want to keep up with the weekly tournaments.
-2) New players who want to see popular decks as they get into the game.
+1) Heavily enfranchised players who want to keep up with the weekly tournaments.  
+2) New players who want to see popular decks as they get into the game.  
 
 My biggest issues with these charts are the following:
-1) Not exciting. The color palette and form is a bit bland and uninteresting. It does not draw attention to the data or any key insights.
-2) Inefficient use of space. The current format uses three different charts and a lot of space to give very simple information.
-3) Doesn't Tell the full story. Showing number of pilots (players that played the deck) without including the number of players in the tournament is odd.
+1) Not exciting. The color palette and form is a bit bland and uninteresting. It does not draw attention to the data or any key insights.  
+2) Inefficient use of space. The current format uses three different charts and a lot of space to give very simple information.  
+3) Doesn't Tell the full story. Showing number of pilots (players that played the deck) without including the number of players in the tournament is odd.  
 
 ## Wireframing Solutions
 
@@ -53,21 +53,21 @@ I shared my wireframes with two other students and got the following feedback.
 
 ### Student 1: Male 26, Familiar with MTG
 
-1) Favorite charts were the pie chart (#1) followed by the circles (#3).
-2) Disliked the use of blue-red to represent win rates, since red-green was more commonly used and easily understood.
-3) For the pie chart, noted that using color to signal a metric was unconventional and that the win rate legend should be placed prominantly above the chart.
-4) For the circle chart, liked it after looking at it for a while, but thought it was a bit too busy and showed too much. Thought hightlighting win rate or top 8 was a good idea, but both was probably too much.
-5) For chart #2, would prefer top 8 to be colored as a percentage of the entrants instead of just number of top 8s.
-6) Liked the use of color in chart #4 as it was more intuitive. In contrast on the pie chart he was confused why black was used for burn.
+1) Favorite charts were the pie chart (#1) followed by the circles (#3).  
+2) Disliked the use of blue-red to represent win rates, since red-green was more commonly used and easily understood.  
+3) For the pie chart, noted that using color to signal a metric was unconventional and that the win rate legend should be placed prominantly above the chart.  
+4) For the circle chart, liked it after looking at it for a while, but thought it was a bit too busy and showed too much. Thought hightlighting win rate or top 8 was a good idea, but both was probably too much.  
+5) For chart #2, would prefer top 8 to be colored as a percentage of the entrants instead of just number of top 8s.  
+6) Liked the use of color in chart #4 as it was more intuitive. In contrast on the pie chart he was confused why black was used for burn.  
 
 ### Student 2: Female 26, Unfamiliar with MTG
 
-1) Felt like she didnt have enough context to understand the charts easily. After a brief explanation of the MTG tournament results structure, she had the following feedback:
-2) Pie charts were not pleasing to look at and the color scheme on #1 made this worse.
-3) Chart #2 was boring and did not tell a story easily, just provided the data as is.
-4) Chart #3 was very busy. The use of yellow-red-green was disliked as the yellow did not stand out.
-5) Very much liked chart #4 as it was the most clear in telling a story. The colored lines helped guide her eyes in a chronological path from beginning of tournament to top 8.
-6) For chart #4, thought including the pilot/player information was unnecessary for the story being told.
+1) Felt like she didnt have enough context to understand the charts easily. After a brief explanation of the MTG tournament results structure, she had the following feedback:  
+2) Pie charts were not pleasing to look at and the color scheme on #1 made this worse.  
+3) Chart #2 was boring and did not tell a story easily, just provided the data as is.  
+4) Chart #3 was very busy. The use of yellow-red-green was disliked as the yellow did not stand out.  
+5) Very much liked chart #4 as it was the most clear in telling a story. The colored lines helped guide her eyes in a chronological path from beginning of tournament to top 8.  
+6) For chart #4, thought including the pilot/player information was unnecessary for the story being told.  
 
 ### Reflection on Feedback
 
@@ -90,6 +90,6 @@ Datasource: https://docs.google.com/spreadsheets/d/1vMIA_qU5YCpv74hdiGgTqxmUpvY2
 
 ### Self-Critique and Comparisons to Original Visualization
 
-1) Excitement: I think this chart makes use of color better and due to its interactive nature is more interesting than the original chart. I think using the area of the rectangles is also more intuitive than using a bar chart for meta % since it is depicting a fraction-of-a-whole relationship. I was not thrilled with how the red-green scale looked (somewhat bland/samey), but stuck with it due to the feedback I received and the importance of sticking to well known design conventions.
-2) Efficiency: This chart combines most of the information from three charts into one while still being pretty easy to interpret and thus met my goal of being more space efficient. The one thing this chart loses is attributing the players who actually made top 8. I think the top 8 chart as has been historically used in these articles can not be replaced since it is already very simple and provides well deserved call outs for the players who achieve these standings.
+1) Excitement: I think this chart makes use of color better and due to its interactive nature is more interesting than the original chart. I think using the area of the rectangles is also more intuitive than using a bar chart for meta % since it is depicting a fraction-of-a-whole relationship. I was not thrilled with how the red-green scale looked (somewhat bland/samey), but stuck with it due to the feedback I received and the importance of sticking to well known design conventions.  
+2) Efficiency: This chart combines most of the information from three charts into one while still being pretty easy to interpret and thus met my goal of being more space efficient. The one thing this chart loses is attributing the players who actually made top 8. I think the top 8 chart as has been historically used in these articles can not be replaced since it is already very simple and provides well deserved call outs for the players who achieve these standings.  
 3) Completeness: The text and popouts do most of the heavy lifting in this category. I think this chart performs slightly better than the original visualization as all the information is readily available (ie total number of players and metrics for the 'other' category) and the use of size and color is intuitive. The usage of color and area does not tell exact information, so the text remains important. I think the completeness of this chart could be improved for the other section since it is currently lumping many different decks together. I would like if the popout could highlight at least which decks in the 'other' category placed in the top 8.
