@@ -12,6 +12,7 @@ My goal to avoid this is to keep everything grounded in real world data and tren
 Additionally, I would like to contextualize the story with nuance and optimism rather than anything too dire.
 
 Expected project flow:
+
 (1) **Lay the Foundation.** Ill expect some in the audience to have heard this data before, but I should introduce it in a way that accepts a broad audience.
 Show the world population and birthrate trends to establish that population is decreasing. Some future projection will probably be used here.
 
