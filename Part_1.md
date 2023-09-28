@@ -68,10 +68,6 @@ Second, [this](https://news.gallup.com/poll/394943/retiring-planning-retire-late
 The "Get the Data" link in the bottom corner of the graphic on this page will download the relevant csv file.
 I think this information would have value as supporting information because retirement is a key part of the population shift impact, even though this only shows U.S. data.
 
-Retirement Age (US)
-
-GDP https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
-
 ## Method and Medium
 
 I enjoyed the examples we saw on shorthand am I am excited to create my project using that source. This will be good to create the flow through the story as I imagine it.
