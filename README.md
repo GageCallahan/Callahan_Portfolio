@@ -15,3 +15,4 @@ I am very excited to learn and apply data visualization techniques in this class
 [MTG Pauper Challenge](/MTG.md)
 
 ## Final Project
+[Part 1](Part_1.md)
