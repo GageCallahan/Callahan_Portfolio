@@ -27,12 +27,24 @@ Reader Response: As a reader I want to be ready for the effects of population de
 Call to Action: I can do this by maintaining awareness of local and global trends.
 
 Story Arc:
-
-
+![](story.png)
 
 ## Sketches
 
-Below are several intial sketches with my intent for each of them. The trends shown in these sketches is based only on prior understanding of the data as I have not analyzed it yet. I expect I will continue toying with these sketches until I find something that immediately strikes me visually.
+Below are several intial sketches with my intent for each of them. The trends shown in these sketches is based only on prior understanding of the data as I have not analyzed it yet. I expect I will continue toying with these sketches until I find something that immediately strikes me visually. More visualizations will also be needed to cover all parts of the story.
+
+This first sketch will be the bedrock of the story foundation as it clearly lays out the data. The projection lines can be gained from the UN data source easily.
+I might include a small desciption of fertility rate units as it is childs/woman, a little unorthodox. This requires two different y axis scales so they will be on each side.
+![](sketch2.png)
+
+This chart utilizes the geo data we have from the source to highlight global trends and note Africa as an outlier. (part 2)
+![](sketch3.png)
+
+This chart is the 'inverted' pyramid model of population demographic shift I mention below. This is obviously a huge exaggeration in the current form, but is intended to show the extremes of the potential effects. It calls to mind the idea of the second pyramid collapsing under its own weight. (part 4)
+![](sketch1.png)
+
+This is an alternate chart that uses stacked bars to show demographic and population shifts with more nuance than the pyramid model. (part 4)
+![](sketch4.png)
 
 ## Data
 The primary data used for this project will be Population//Birth Rates by country and year(also includes demographic breakdowns)
