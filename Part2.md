@@ -5,7 +5,7 @@
 As recommended in class, I moved to shorthand for the storyboarding step. This was helpful as I was able to see the layout tools I had at my disposal and work within those limits. It is also naturally pleasant to look at which helped the interview process.
 For the Wireframes, I built all of my most important and necessary graphics using the real data in flourish. They are closer to rough drafts/final products but that should help me going forward.
 
-Link to shorthand preview site: https://preview.shorthand.com/FVfye0HWFuEQosBw
+Link to shorthand preview site: [https://preview.shorthand.com/FVfye0HWFuEQosBw](https://preview.shorthand.com/FVfye0HWFuEQosBw)
 
 # User research 
 
