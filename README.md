@@ -16,3 +16,4 @@ I am very excited to learn and apply data visualization techniques in this class
 
 ## Final Project
 [Part 1](Part_1.md)
+[Part 2](Part2.md)
