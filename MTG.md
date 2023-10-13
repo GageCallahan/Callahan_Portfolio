@@ -1,3 +1,4 @@
+| [home page](https://gagecallahan.github.io/Callahan_Portfolio/) | [visualizing debt](https://gagecallahan.github.io/Callahan_Portfolio/Visualizing_Debt.html) | [critique by design](https://gagecallahan.github.io/Callahan_Portfolio/MTG.html) | [final project I](https://gagecallahan.github.io/Callahan_Portfolio/Part_1.html) | [final project II](https://gagecallahan.github.io/Callahan_Portfolio/Part2.html) | [final project III](https://gagecallahan.github.io/Callahan_Portfolio/Part3.html) |
 # Critique By Design - MTG Pauper Challenge Results
 
 ## Original Data Visualization
