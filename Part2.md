@@ -1,5 +1,4 @@
-[final project I](https://gagecallahan.github.io/Callahan_Portfolio/Part_1.html)
-
+| [home page](https://gagecallahan.github.io/Callahan_Portfolio/) | [visualizing debt](https://gagecallahan.github.io/Callahan_Portfolio/Visualizing_Debt.html) | [critique by design](https://gagecallahan.github.io/Callahan_Portfolio/MTG.html) | [final project I](https://gagecallahan.github.io/Callahan_Portfolio/Part_1.html) | [final project II](https://gagecallahan.github.io/Callahan_Portfolio/Part2.html) | [final project III](https://gagecallahan.github.io/Callahan_Portfolio/Part3.html) |
 # Wireframes / storyboards
 
 As recommended in class, I moved to shorthand for the storyboarding step. This was helpful as I was able to see the layout tools I had at my disposal and work within those limits. It is also naturally pleasant to look at which helped the interview process.
